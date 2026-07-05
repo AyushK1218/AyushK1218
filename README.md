@@ -5,8 +5,9 @@
 I’m a backend-focused developer who enjoys building reliable APIs, authentication systems, and scalable server-side applications. I like solving real-world problems through clean architecture and practical implementation.  
 Right now, I’m focused on improving my DSA skills and exploring AI/ML to combine strong problem-solving with intelligent product development.
 
+## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,nodejs,express,react,mongodb,git,github,vscode,webstorm,cursor,postman,docker,bun,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,nodejs,express,react,mongodb,git,github,vscode,webstorm,postman,docker,bun,vercel,render" />
 </p>
 
 ## Backend-Focused Projects
